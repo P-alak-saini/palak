@@ -1,4 +1,4 @@
 # palak
 This is my first git repository
 <br>
-author-palak saini
+author-palak saini palak saini
